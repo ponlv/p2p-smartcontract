@@ -1,0 +1,2 @@
+npx hardhat run test-emi.js
+node test-emi.js
